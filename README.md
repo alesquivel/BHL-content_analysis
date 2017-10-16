@@ -24,3 +24,7 @@ Use split2.py(**i think**) to split files into smaller files. Feed smaller files
 Using classification path results, filter names into different kingdoms using name_analysis.py script. Get rid of names that have no match, get rid of duplicates, find kingdom level of classification paths, count unique representation of kingdoms and total representation of kingdoms. 
 
 ## Geographic representation 
+geoparser>cliff_reader.py
+
+## other scripts
+pull from BHL API using R (artemisia)
